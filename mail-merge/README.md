@@ -23,7 +23,7 @@ Simplify the process of producing visually rich mail merges using Gmail and comb
 
 [![Learn more about this solution](https://img.youtube.com/vi/YTeV4i1W3Zo/0.jpg)](https://www.youtube.com/watch?v=YTeV4i1W3Zo&list=PLU8ezI8GYqs4YntFNP9jf_rrZ0vJLSW2X&index=4)
 
-1. Create a copy of the sample [Gmail/Sheets Mail Merge spreadsheet](https://docs.google.com/spreadsheets/d/1EfjLuYGab8Xt8wCn4IokBIG0_W4tBtiU4vxl3Y7FPsA/copy).
+1. Create a copy of the sample [Gmail/Sheets Mail Merge spreadsheet](https://docs.google.com/spreadsheets/d/1EfjLuYGab8Xt8wCn4IokBIG0_W4tBtiU4vxl3Y7FPsA/copy). In your spreadsheet, click Tools > Script Editor and swap in the latest version of Code.js from this repo.
 
 1. Update the **Recipients** column with email addresses you would like to use in the mail merge
 
