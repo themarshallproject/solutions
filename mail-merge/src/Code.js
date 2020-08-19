@@ -178,7 +178,7 @@ function sendEmails(subjectLine, sheet=SpreadsheetApp.getActiveSheet()) {
       .replace(/[\/]/g, '\\/')
       .replace(/[\b]/g, '\\b')
       .replace(/[\f]/g, '\\f')
-      .replace(/[\n]/g, '\\n')
+      .replace(/[\n]/g, '<br>')
       .replace(/[\r]/g, '\\r')
       .replace(/[\t]/g, '\\t');
   };
